@@ -2,7 +2,7 @@
 
 // Define routes
 $routes = [
-    'INDEX' => '/default.php',
+    'INDEX' => '/index.php',
     '500_error' => '/500.php',
     'login' => '/view/Login.php',
     'signup_decider' => '/view/Signup_Decider.php',
