@@ -8,12 +8,12 @@
 A website that makes your car selling, easy!
 <br/>
 <br/>
-<a href="https://github.com/ShaanCoding/ReadME-Generator/"><strong>Explore the docs »</strong></a>
+<a href="https://github.com/the-sudipta/Car_Shop_Management_System/blob/master/README.md"><strong>Explore the docs »</strong></a>
 <br/>
 <br/>
-<a href="https://github.com/ShaanCoding/ReadME-Generator/">View Demo .</a>  
-<a href="https://github.com/ShaanCoding/ReadME-Generator/issues/new?labels=bug&template=bug-report---.md">Report Bug .</a>
-<a href="https://github.com/ShaanCoding/ReadME-Generator/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+<a href="https://car-shop-management-system.sudiptakumar.com">View Demo .</a>  
+<a href="https://github.com/the-sudipta/Car_Shop_Management_System/issues">Report Bug .</a>
+<a href="https://github.com/the-sudipta/Car_Shop_Management_System/issues">Request Feature</a>
 </p>
 </div>
 
@@ -39,18 +39,14 @@ reporting tools, enabling sellers to generate detailed PDF reports on monthly or
 profit across new, used, and rental car transactions. This robust solution aims to streamline the selling 
 process, offering a seamless and user-friendly interface for car dealership management.
 
- ### Built With
+ ### :gear: Built With
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-- [Next](https://nextjs.org)
-- [React](https://reactjs.org)
-- [Vue](https://vuejs.org)
-- [Angular](https://angular.io)
-- [Svelte](https://svelte.dev)
-- [Laravel](https://laravel.com)
-- [Bootstrap](https://getbootstrap.com)
-- [JQuery](https://jquery.com)
+- [HTML](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [PHP](https://www.php.net/)
 
 
 ### :dart: Features
