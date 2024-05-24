@@ -1,7 +1,7 @@
 <br/>
 <div align="center">
 <a href="https://github.com/ShaanCoding/ReadME-Generator">
-<img src="https://source.unsplash.com/random/256x256" alt="Logo" width="80" height="80">
+<img src="https://raw.githubusercontent.com/the-sudipta/Car_Shop_Management_System/main/DOCUMENTATIONS/images/Car%20Shop%20Management%20System.png" alt="Logo" width="80" height="80">
 </a>
 <h3 align="center">Car Shop Management System</h3>
 <p align="center">
@@ -20,14 +20,16 @@ A website that makes your car selling, easy!
 ## :notebook_with_decorative_cover: Table of Contents
 
 - [About the Project](#star2-about-the-project)
+- [Getting Started](#toolbox-getting-started)
 - [Roadmap](#compass-roadmap)
 - [Contributing](#wave-contributing)
 - [License](#warning-license)
 - [Contact](#handshake-contact)
+- [Acknowledgement](#gem-acknowledgement)
 
  ## :star2: About The Project
 
-![Product Screenshot](https://source.unsplash.com/random/1920x1080)
+![Product Video Gif](#)
 
 This project is a comprehensive car dealership management system designed for sellers, allowing them to 
 efficiently manage and operate their inventory through an integrated web platform. Upon logging in from the 
@@ -40,8 +42,6 @@ profit across new, used, and rental car transactions. This robust solution aims 
 process, offering a seamless and user-friendly interface for car dealership management.
 
  ### :gear: Built With
-
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
 - [HTML](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -143,7 +143,10 @@ git clone https://github.com/the-sudipta/Car_Shop_Management_System
 
 Contributions are always welcome!
 
-see `contributing.md` for ways to get started
+### :sparkles: Authors
+- [@the-sudipta](https://www.github.com/the-sudipta)
+
+
 
 ## :warning: License
 
@@ -154,3 +157,6 @@ Distributed under the no License. See LICENSE.txt for more information.
 Sudipta Kumar Das - - engineer.sudipta.kumar.das@gmail.com
 
 Project Link: [https://github.com/the-sudipta/Car_Shop_Management_System](https://github.com/the-sudipta/Car_Shop_Management_System)
+
+## :gem: Acknowledgement
+- [JQuery](https://jquery.com/)
