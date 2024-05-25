@@ -113,28 +113,13 @@ git clone https://github.com/the-sudipta/Car_Shop_Management_System
 ## :compass: Roadmap
 
 
-* [x] Seller Signup
-* [x] Seller Login
-* [x] Show New Cars
-* [x] Show All Cars
-* [x] Show Sold Cars
-* [x] Show Rented Cars
-* [x] Show Used Cars
-* [x] Show Car Requests
-* [x] Show Comments
-* [x] Show Yearly Sales
-* [x] Show Profits
-* [x] Show Revenue
-* [x] Show Total Sold Car Amount
-* [x] Show Total Available Cars Number
-* [x] Add New Car
-* [x] Delete a Car
-* [x] Edit Car Details
-* [x] Show Car's Availability and Status
-* [x] Accept or Reject Car Requests for Sell or Rent
-* [ ] Show Seller Own Profile
-* [ ] Update Seller Profile Details
-* [ ] Forget Password
+* [x] Project Order Confirmation
+* [x] Receive Project Details
+* [x] Feature Selection
+* [x] Project Initialization
+* [x] Complete Project
+* [x] Deploy Project
+* [ ] Project Documentations
 
 
 ## :wave: Contributing
