@@ -22,6 +22,7 @@ $Used_cars_List_page = $routes['seller_used_cars'];
 $Rented_cars_List_page = $routes['seller_rented_cars'];
 $All_cars_List_page =  $routes['seller_all_cars'];
 $Customer_Requests_List_page = $routes['seller_car_requests'];
+$seller_Dashboard_page = $routes['seller_dashboard'];
 
 
 
