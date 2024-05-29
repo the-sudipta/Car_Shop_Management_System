@@ -174,7 +174,7 @@ Contributions are always welcome!
 ### :sparkles: Authors
 - [@the-sudipta](https://www.github.com/the-sudipta)
 
-## Used By
+## :busts_in_silhouette: Used By
 
 This project is used by the following individuals:
 
