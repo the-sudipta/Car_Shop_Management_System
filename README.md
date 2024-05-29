@@ -70,51 +70,49 @@ process, offering a seamless and user-friendly interface for car dealership mana
 
 ### :dart: Features
 
-<div style="width: 100%; display: flex; justify-content: center;">
-
-<table style="margin: auto; text-align: center;">
-  <tr>
-    <td>Seller Signup</td>
-    <td>Seller Login</td>
-  </tr>
-  <tr>
-    <td>Show New Cars</td>
-    <td>Show All Cars</td>
-  </tr>
-  <tr>
-    <td>Show Sold Cars</td>
-    <td>Show Rented Cars</td>
-  </tr>
-  <tr>
-    <td>Show Used Cars</td>
-    <td>Show Car Requests</td>
-  </tr>
-  <tr>
-    <td>Show Comments</td>
-    <td>Show Yearly Sales</td>
-  </tr>
-  <tr>
-    <td>Show Profits</td>
-    <td>Show Revenue</td>
-  </tr>
-  <tr>
-    <td>Show Total Sold Car Amount</td>
-    <td>Show Total Available Cars Number</td>
-  </tr>
-  <tr>
-    <td>Add New Car</td>
-    <td>Delete a Car</td>
-  </tr>
-  <tr>
-    <td>Edit Car Details</td>
-    <td>Show Car's Availability and Status</td>
-  </tr>
-  <tr>
-    <td>Accept Car Requests for Selling or Rent</td>
-    <td>Reject Car Requests for Selling or Rent</td>
-  </tr>
-</table>
-
+<div align="center">
+  <table>
+    <tr>
+      <td>Seller Signup</td>
+      <td>Seller Login</td>
+    </tr>
+    <tr>
+      <td>Show New Cars</td>
+      <td>Show All Cars</td>
+    </tr>
+    <tr>
+      <td>Show Sold Cars</td>
+      <td>Show Rented Cars</td>
+    </tr>
+    <tr>
+      <td>Show Used Cars</td>
+      <td>Show Car Requests</td>
+    </tr>
+    <tr>
+      <td>Show Comments</td>
+      <td>Show Yearly Sales</td>
+    </tr>
+    <tr>
+      <td>Show Profits</td>
+      <td>Show Revenue</td>
+    </tr>
+    <tr>
+      <td>Show Total Sold Car Amount</td>
+      <td>Show Total Available Cars Number</td>
+    </tr>
+    <tr>
+      <td>Add New Car</td>
+      <td>Delete a Car</td>
+    </tr>
+    <tr>
+      <td>Edit Car Details</td>
+      <td>Show Car's Availability and Status</td>
+    </tr>
+    <tr>
+      <td>Accept Car Requests for Selling or Rent</td>
+      <td>Reject Car Requests for Selling or Rent</td>
+    </tr>
+  </table>
 </div>
 
 
