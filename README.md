@@ -30,7 +30,7 @@ A website that makes your car selling, easy!
 
  ## :star2: About The Project
 
-![Product Video Gif](#)
+![Product Video Gif](https://github.com/the-sudipta/Car_Shop_Management_System/blob/main/DOCUMENTATIONS/images/Car%20Shop%20Management%20System.gif?raw=true)
 
 This project is a comprehensive car dealership management system designed for sellers, allowing them to 
 efficiently manage and operate their inventory through an integrated web platform. Upon logging in from the 
