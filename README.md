@@ -70,6 +70,10 @@ process, offering a seamless and user-friendly interface for car dealership mana
 
 ### :dart: Features
 
+### :dart: Features
+
+<div style="display: flex; justify-content: center;">
+
 <table>
   <tr>
     <td>Seller Signup</td>
@@ -112,6 +116,9 @@ process, offering a seamless and user-friendly interface for car dealership mana
     <td>Reject Car Requests for Selling or Rent</td>
   </tr>
 </table>
+
+</div>
+
 
 
 ### :key: Environment Variables
