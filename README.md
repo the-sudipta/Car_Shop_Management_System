@@ -1,15 +1,16 @@
 <br/>
 <div align="center">
-<a href="https://github.com/ShaanCoding/ReadME-Generator">
+<a href="#">
 <img src="https://raw.githubusercontent.com/the-sudipta/Car_Shop_Management_System/main/DOCUMENTATIONS/images/Car%20Shop%20Management%20System.png" alt="Logo" width="80" height="80">
 </a>
 <h3 align="center">Car Shop Management System</h3>
 <p align="center">
 A website that makes your car selling, easy!
 <br/>
-<br/>
-<a href="https://github.com/the-sudipta/Car_Shop_Management_System/blob/master/README.md"><strong>Explore the docs »</strong></a>
-<br/>
+<a href="https://github.com/the-sudipta/Car_Shop_Management_System/raw/main/DOCUMENTATIONS/Project_Manual_Car_Shop_Management_System.pdf" download>
+    <strong>Explore the docs »</strong>
+</a>
+
 <br/>
 <a href="https://car-shop-management-system.sudiptakumar.com">View Demo .</a>  
 <a href="https://github.com/the-sudipta/Car_Shop_Management_System/issues">Report Bug .</a>
@@ -47,6 +48,31 @@ process, offering a seamless and user-friendly interface for car dealership mana
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [PHP](https://www.php.net/)
+
+### :space_invader: Tech Stack
+
+<details> 
+  <summary>Client</summary> 
+  <ul>
+    <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML</a></li>
+    <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a></li>
+    <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">JavaScript</a></li>
+  </ul> 
+</details>
+
+<details> 
+  <summary>Server</summary> 
+  <ul>
+    <li><a href="https://www.php.net/">PHP</a></li>
+  </ul> 
+</details>
+
+<details> 
+  <summary>Database</summary> 
+  <ul>
+    <li><a href="https://www.mysql.com/">MySQL</a></li>
+  </ul> 
+</details>
 
 
 ### :dart: Features
@@ -87,8 +113,6 @@ To run this project, you will need to add the following environment variables to
 `dbname`
 
 
-
-
 ## :toolbox: Getting Started
 
 ### :bangbang: Prerequisites
@@ -119,7 +143,7 @@ git clone https://github.com/the-sudipta/Car_Shop_Management_System
 * [x] Project Initialization
 * [x] Complete Project
 * [x] Deploy Project
-* [ ] Project Documentations
+* [x] Project Documentations
 
 
 ## :wave: Contributing
@@ -135,7 +159,7 @@ Contributions are always welcome!
 
 ## :warning: License
 
-Distributed under the no License. See LICENSE.txt for more information.
+This project is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International Public License - see the [LICENSE](LICENSE) file for details.
 
 ## :handshake: Contact
 
@@ -145,3 +169,4 @@ Project Link: [https://github.com/the-sudipta/Car_Shop_Management_System](https:
 
 ## :gem: Acknowledgement
 - [JQuery](https://jquery.com/)
+- [Bootstrap](https://getbootstrap.com/)
