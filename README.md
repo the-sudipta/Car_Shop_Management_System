@@ -174,6 +174,11 @@ Contributions are always welcome!
 ### :sparkles: Authors
 - [@the-sudipta](https://www.github.com/the-sudipta)
 
+## Used By
+
+This project is used by the following individuals:
+
+- Asif Abdullah Uday
 
 
 ## :warning: License
