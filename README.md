@@ -42,14 +42,8 @@ reporting tools, enabling sellers to generate detailed PDF reports on monthly or
 profit across new, used, and rental car transactions. This robust solution aims to streamline the selling 
 process, offering a seamless and user-friendly interface for car dealership management.
 
- ### :hammer: Built With
 
-- [HTML](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
-- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [PHP](https://www.php.net/)
-
-### :space_invader: Tech Stack
+### :hammer: Tech Stack / Built With
 
 <details> 
   <summary>Client</summary> 
@@ -74,28 +68,50 @@ process, offering a seamless and user-friendly interface for car dealership mana
   </ul> 
 </details>
 
-
 ### :dart: Features
 
-- Seller Signup
-- Seller Login
-- Show New Cars
-- Show All Cars
-- Show Sold Cars
-- Show Rented Cars
-- Show Used Cars
-- Show Car Requests
-- Show Comments
-- Show Yearly Sales
-- Show Profits
-- Show Revenue
-- Show Total Sold Car Amount
-- Show Total Available Cars Number
-- Add New Car
-- Delete a Car
-- Edit Car Details
-- Show Car's Availability and Status
-- Accept or Reject Car Requests for Sell or Rent
+<table>
+  <tr>
+    <td>Seller Signup</td>
+    <td>Seller Login</td>
+  </tr>
+  <tr>
+    <td>Show New Cars</td>
+    <td>Show All Cars</td>
+  </tr>
+  <tr>
+    <td>Show Sold Cars</td>
+    <td>Show Rented Cars</td>
+  </tr>
+  <tr>
+    <td>Show Used Cars</td>
+    <td>Show Car Requests</td>
+  </tr>
+  <tr>
+    <td>Show Comments</td>
+    <td>Show Yearly Sales</td>
+  </tr>
+  <tr>
+    <td>Show Profits</td>
+    <td>Show Revenue</td>
+  </tr>
+  <tr>
+    <td>Show Total Sold Car Amount</td>
+    <td>Show Total Available Cars Number</td>
+  </tr>
+  <tr>
+    <td>Add New Car</td>
+    <td>Delete a Car</td>
+  </tr>
+  <tr>
+    <td>Edit Car Details</td>
+    <td>Show Car's Availability and Status</td>
+  </tr>
+  <tr>
+    <td>Accept Car Requests for Selling or Rent</td>
+    <td>Reject Car Requests for Selling or Rent</td>
+  </tr>
+</table>
 
 
 ### :key: Environment Variables
