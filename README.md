@@ -70,11 +70,9 @@ process, offering a seamless and user-friendly interface for car dealership mana
 
 ### :dart: Features
 
-### :dart: Features
+<div style="width: 100%; display: flex; justify-content: center;">
 
-<div style="display: flex; justify-content: center;">
-
-<table>
+<table style="margin: auto; text-align: center;">
   <tr>
     <td>Seller Signup</td>
     <td>Seller Login</td>
