@@ -148,7 +148,7 @@ https://github.com/the-sudipta/Car_Shop_Management_System
 
 Clone the Repository
 ```bash
-git clone https://github.com/the-sudipta/Car_Shop_Management_System
+git clone https://github.com/the-sudipta/Car_Shop_Management_System.git
 ```
 
 
